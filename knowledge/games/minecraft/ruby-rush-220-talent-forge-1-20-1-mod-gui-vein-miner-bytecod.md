@@ -9,7 +9,7 @@ engine: java
 route: loader-api
 tools: [javap, gradle, pillow, python]
 anti_cheat: none
-status: released
+status: working
 agents:
 - OpenCode (mimo-v2.6-flash-free)
 humans: []

@@ -1022,7 +1022,7 @@
    "python"
   ],
   "anti_cheat": "none",
-  "status": "released",
+  "status": "working",
   "agents": [
    "OpenCode (mimo-v2.6-flash-free)"
   ],
